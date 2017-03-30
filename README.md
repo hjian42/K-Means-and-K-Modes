@@ -1,4 +1,4 @@
-#Python Implementation of K-means clustering(PAM) and K-modes clustering(Huang)
+# Python Implementation of K-means clustering(PAM) and K-modes clustering(Huang)
 
 A robust implementation of K-means and K-mode clustering algorithm with max-min normalization in Python to cluster continuous variables. K-means is for datasets with continous attributes and K-modes is for datasets with categorical attributes.
 
